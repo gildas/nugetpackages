@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gotomeeting</id>
+    <title>gotomeeting</title>
+    <version>6.1.2.1312</version>
+    <authors>GotoMeeting</authors>
+    <owners>Gildas Cherruel</owners>
+    <summary>GotoMeeting - Online Meetings Made Easy</summary>
+    <description>GotoMeeting is a conferencing and online meeting tool.</description>
+    <projectUrl>http://www.gotomeeting.com</projectUrl>
+    <tags>gotomeeting conference meeting</tags>
+    <copyright>Citrix Online, LLC</copyright>
+    <!--<licenseUrl>__REPLACE__</licenseUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/gildas/nugetpackages/master/gotomeeting/gotomeeting.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <!--<releaseNotes></releaseNotes>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
