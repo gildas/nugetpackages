@@ -13,7 +13,7 @@
     <copyright>Citrix Online, LLC</copyright>
     <!--<licenseUrl>__REPLACE__</licenseUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>https://raw.github.com/gildas/nugetpackages/master/gotomeeting/gotomeeting.png</iconUrl>-->
+    <iconUrl>https://raw.github.com/gildas/nugetpackages/master/gotomeeting/gotomeeting.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
