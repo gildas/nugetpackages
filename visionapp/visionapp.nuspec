@@ -4,14 +4,14 @@
     <id>visionapp</id>
     <title>visionapp</title>
     <version>2012.8.2014022801</version>
-    <authors>ASG Gmbh & CO. KG</authors>
+    <authors>ASG Gmbh &amp; CO. KG</authors>
     <owners>Gildas Cherruel</owners>
     <summary>visionapp - Remote Desktop</summary>
     <description>visionapp by ASG is a tabbed remote desktop manager to access Windows and Linux machines alike</description>
     <projectUrl>http://www.visionapp.com</projectUrl>
     <tags>visionapp admin</tags>
-    <copyright>ASG Gmbh & CO. KG</copyright>
-    <licenseUrl></licenseUrl>
+    <copyright>ASG Gmbh &amp; CO. KG</copyright>
+    <!--<licenseUrl></licenseUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/gildas/nugetpackages/master/visionapp/visionapp.png</iconUrl>
     <!--<dependencies>
