@@ -3,11 +3,11 @@
   <metadata>
     <id>gotomeeting</id>
     <title>gotomeeting</title>
-    <version>6.1.2.1312</version>
+    <version>6.1.2.2014022801</version>
     <authors>GotoMeeting</authors>
     <owners>Gildas Cherruel</owners>
     <summary>GotoMeeting - Online Meetings Made Easy</summary>
-    <description>GotoMeeting is a conferencing and online meeting tool.</description>
+    <description>GotoMeeting is a conferencing and online meeting tool. This package installs version: 6.1.2.1312</description>
     <projectUrl>http://www.gotomeeting.com</projectUrl>
     <tags>gotomeeting conference meeting</tags>
     <copyright>Citrix Online, LLC</copyright>
