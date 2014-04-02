@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ncftp</id>
+    <title>ncftp</title>
+    <version>3.2.5.20140402</version>
+    <authors>NCFTP Software</authors>
+    <owners>Gildas Cherruel</owners>
+    <summary>ncftp - File Transfer Protocol client</summary>
+    <description>ncftp is a set of free application programs implementing the File Transfer Protocol</description>
+    <projectUrl>http://www.ncftp.com/ncftp</projectUrl>
+    <tags>ncftp ftp CLI</tags>
+    <copyright>The Clarified Artistic License</copyright>
+    <licenseUrl>http://www.ncftp.com/ncftp/doc/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
