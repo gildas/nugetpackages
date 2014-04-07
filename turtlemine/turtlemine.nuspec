@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>turtlemine</id>
+    <title>turtlemine</title>
+    <version>1.2.0.1.20140407</version>
+    <authors>jstein@mailjar.com (https://code.google.com/u/116410716342957281946)</authors>
+    <owners>Gildas Cherruel</owners>
+    <summary>TurtleMine plugin for Tortoise and Redmine</summary>
+    <description>TurtleMine provides a plugin for Tortoise SVN/GIT/Hg for Redmine issue tracking.</description>
+    <projectUrl>https://code.google.com/turtlemine</projectUrl>
+    <tags>turtlemine tortoisesvn tortoisegit svn subversion git scm</tags>
+    <copyright>MIT License</copyright>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/gildas/nugetpackages/master/turtlemine/turtlemine.png</iconUrl>
+    <dependencies>
+      <dependency id="tortoisegit" version="1.8.8.0" />
+    </dependencies>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
