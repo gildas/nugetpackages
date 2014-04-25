@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>cr_for_vs</id>
+    <title>Crystal Reports</title>
+    <version>13.0.9.1312</version>
+    <authors>SAP</authors>
+    <owners>Gildas Cherruel</owners>
+    <summary>Crystal Reports for Visual Studi</summary>
+    <description>crystalreports</description>
+    <projectUrl>__REPLACE__</projectUrl>
+    <tags>CrystalReports "Crystal Reports" Reports "Visual Studio" VisualStudio</tags>
+    <copyright>SAP</copyright>
+    <licenseUrl>http://global.sap.com/corporate-en/legal/copyright/index.epx</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/gildas/nugetpackages/master/crystalreports/crystalreports.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
