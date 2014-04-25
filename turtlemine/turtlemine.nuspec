@@ -3,7 +3,7 @@
   <metadata>
     <id>turtlemine</id>
     <title>turtlemine</title>
-    <version>1.2.0.1.20140407</version>
+    <version>1.2.0.1</version>
     <authors>jstein@mailjar.com (https://code.google.com/u/116410716342957281946)</authors>
     <owners>Gildas Cherruel</owners>
     <summary>TurtleMine plugin for Tortoise and Redmine</summary>
@@ -15,7 +15,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/gildas/nugetpackages/master/turtlemine/turtlemine.png</iconUrl>
     <dependencies>
-      <dependency id="tortoisegit" version="1.8.8.0" />
+      <dependency id="tortoisegit" version="" />
     </dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
