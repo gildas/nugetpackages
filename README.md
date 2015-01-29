@@ -8,6 +8,7 @@ Creation procedure
 Since I keep forgetting how to do it and I end up going to the Chocolatey wiki pages all the time, let's have this here:
 
 Prerequisites: chocolatey install warmup
+Configuration: [WarmuP](https://github.com/chocolatey/chocolateytemplates)
 
 ```powershell
 cd $HOME\nugetpackages
