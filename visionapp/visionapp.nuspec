@@ -13,7 +13,7 @@
     <copyright>ASG Gmbh &amp; CO. KG</copyright>
     <!--<licenseUrl></licenseUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/gildas/nugetpackages/master/visionapp/visionapp.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/gildas/nugetpackages/master/visionapp/visionapp.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
