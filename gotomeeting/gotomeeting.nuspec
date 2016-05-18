@@ -2,22 +2,24 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>gotomeeting</id>
-    <title>gotomeeting</title>
-    <version>6.1.2.2014022801</version>
-    <authors>GotoMeeting</authors>
+    <title>GoToMeeting</title>
+    <version>7.17.0</version>
+    <authors>Citrix Systems</authors>
     <owners>Gildas Cherruel</owners>
     <summary>GotoMeeting - Online Meetings Made Easy</summary>
-    <description>GotoMeeting is a conferencing and online meeting tool. This package installs version: 6.1.2.1312</description>
+    <description>GoToMeeting is a conferencing and online meeting tool.</description>
     <projectUrl>http://www.gotomeeting.com</projectUrl>
-    <tags>gotomeeting conference meeting</tags>
+    <tags>gotomeeting conference meeting admin trial</tags>
     <copyright>Citrix Online, LLC</copyright>
-    <!--<licenseUrl>__REPLACE__</licenseUrl>-->
+    <licenseUrl>https://esign.citrixonline.com/CitrixOnline/Production/Global_TOS_JAN2016.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/gildas/nugetpackages/tree/master/gotomeeting</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/gildas/nugetpackages/issues</bugTrackerUrl>
     <iconUrl>https://raw.github.com/gildas/nugetpackages/master/gotomeeting/gotomeeting.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
-    <!--<releaseNotes></releaseNotes>-->
+    <releaseNotes>https://github.com/gildas/nugetpackages/tree/master/gotomeeting/ChangeLog.md</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
