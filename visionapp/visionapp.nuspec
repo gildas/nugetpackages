@@ -2,22 +2,24 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>visionapp</id>
-    <title>visionapp</title>
-    <version>2012.8.2014022801</version>
+    <title>ASG-Remote Desktop (Vision App)</title>
+    <version>9.0.5222</version>
     <authors>ASG Gmbh &amp; CO. KG</authors>
     <owners>Gildas Cherruel</owners>
-    <summary>visionapp - Remote Desktop</summary>
-    <description>visionapp by ASG is a tabbed remote desktop manager to access Windows and Linux machines alike</description>
+    <summary>Visionapp - Remote Desktop</summary>
+    <description>Visionapp by ASG is a tabbed remote desktop manager to access Windows and Linux machines alike</description>
     <projectUrl>http://www.visionapp.com</projectUrl>
-    <tags>visionapp admin</tags>
+    <tags>visionapp remotedesktop admin trial</tags>
     <copyright>ASG Gmbh &amp; CO. KG</copyright>
     <!--<licenseUrl></licenseUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/gildas/nugetpackages/tree/master/visionapp</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/gildas/nugetpackages/issues</bugTrackerUrl>
     <iconUrl>https://cdn.rawgit.com/gildas/nugetpackages/master/visionapp/visionapp.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/gildas/nugetpackages/tree/master/visionapp/ReleaseNotes.html</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
