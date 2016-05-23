@@ -1,0 +1,11 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure(2) do |config|
+  config.vm.box = "windows-8.1-enterprise-eval"
+  config.vm.box_check_update = false
+
+  config.vm.synced_folder "..", "/nugetpackage"
+
+  config.vm.provision 'shell', inline: "if (Get-Command chocolatey.exe) { & chocolatey upgrade -y chocolatey } else { Invoke-Expression ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))}"
+end
