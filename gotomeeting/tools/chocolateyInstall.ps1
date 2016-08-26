@@ -1,8 +1,8 @@
 ﻿$packageName = 'gotomeeting'
 $installerType = 'MSI'
-# The support page for downloading is: http://support.citrixonline.com/en_US/gotomeeting/downloaddocument/GTMD00053
+# The support page for downloading is: https://support.citrixonline.com/en_US/gotomeeting/downloaddocument/GTMD00053
 # Which redirects the actual download to the following URL
-$url = 'http://support.citrixonline.com/servlet/fileField?retURL=%2Fapex%2FCPDownloadStarter%3FarticleLinkId%3DG2MD00196%26l%3Den_US%26product%3DMeeting&entityId=ka338000000GtVFAA0&field=Content__Body__s'
+$url = 'https://support.citrixonline.com/servlet/fileField?retURL=%2Fapex%2FCPDownloadStarter%3FarticleLinkId%3DG2MD00196%26l%3Den_US%26product%3DMeeting&entityId=ka338000000GtVFAA0&field=Content__Body__s'
 $silentArgs = '/q ALLUSERS=1'
 $validExitCodes = @(0)
 
